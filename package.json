@@ -11,12 +11,12 @@
   },
   "dependencies": {
     "@nuxt/content": "^2.13.4",
-    "@nuxt/ui": "^2.18.7",
-    "nuxt": "^3.13.0",
+    "@nuxt/ui": "^2.22.0",
+    "nuxt": "^3.17.2",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "^4.5.1"
   },
   "devDependencies": {
-    "@iconify-json/simple-icons": "^1.2.10"
+    "@iconify-json/simple-icons": "^1.2.33"
   }
 }
