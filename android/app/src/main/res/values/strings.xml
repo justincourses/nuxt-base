@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">nuxt-base-app</string>
+    <string name="title_activity_main">nuxt-base-app</string>
+    <string name="package_name">com.justincourse.nuxtbase</string>
+    <string name="custom_url_scheme">com.justincourse.nuxtbase</string>
+</resources>
